@@ -1,0 +1,11 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_compose"
+        android:icon="@drawable/local"
+        app:showAsAction="always"
+        android:title="位置" />
+
+
+</menu>
